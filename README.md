@@ -8,7 +8,9 @@ mesmerized by the beauty of this game.
 Next year we will witness the 13th edition of Indian Premiere League. Unfortunately, Richard
 Madley, the IPL Auctioneer is not available next year. So it is now your responsibility to form the
 teams.
+
 Rules
+
 • Every Team can have atleast x and atmost y Overseas Players (not Indian).
 • Every team can have atleast x and atmost y bowlers
 • Every team can have atleast x and atmost y batsmen.
@@ -19,18 +21,31 @@ Bowler or All Rounder or Batsman)
 • No player can be a part of more than 1 team.
 • The team size is 18 members.
 • Values of x and y will be specified in the config.txt file (read below)
+
 Input Files :
+
 dataset.txt : contains information of players in the following format
+
 Player Name:Country:Ability:Fees
+
 dataset link : ---
+
 config.txt : contains all the parameters as explained above.
+
 overseas:4:7
+
 bowlers:4:6
+
 batsmen:5:7
+
 wicketkeepers:1:2
+
 allrounders:2:4
+
 teams:8
+
 team_names:
+
 Chennai Super Kings
 Delhi Capitals
 Kings XI Punjab
