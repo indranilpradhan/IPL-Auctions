@@ -1,0 +1,110 @@
+Team : Rajasthan Royals
+
+Player 1
+Name:Hazratullah Zazai
+country:Afghanistan
+Ability:Batsman
+Fees:800000
+
+Player 2
+Name:Mahmudullah
+country:Bangladesh
+Ability:All-Rounder
+Fees:800000
+
+Player 3
+Name:Mujeeb Ur Rahman
+country:Afghanistan
+Ability:Bowler
+Fees:800000
+
+Player 4
+Name:Sean Williams
+country:Zimbabwe
+Ability:All-Rounder
+Fees:800000
+
+Player 5
+Name:Joe Root
+country:England
+Ability:Batsman
+Fees:700000
+
+Player 6
+Name:Tim Southee
+country:New Zealand
+Ability:Bowler
+Fees:700000
+
+Player 7
+Name:Abhimanyu Mithun
+country:India
+Ability:Bowler
+Fees:600000
+
+Player 8
+Name:Cheteshwar Pujara
+country:India
+Ability:Batsman
+Fees:600000
+
+Player 9
+Name:Imran Tahir
+country:South Africa
+Ability:Bowler
+Fees:600000
+
+Player 10
+Name:Karun Nair
+country:India
+Ability:Batsman
+Fees:600000
+
+Player 11
+Name:Pragyan Ojha
+country:India
+Ability:Bowler
+Fees:600000
+
+Player 12
+Name:Rashid Patel
+country:India
+Ability:Batsman
+Fees:600000
+
+Player 13
+Name:Saba Karim
+country:India
+Ability:Batsman
+Fees:600000
+
+Player 14
+Name:Wriddhiman Saha
+country:India
+Ability:Batsman
+Fees:600000
+
+Player 15
+Name:Gautam Gambhir
+country:India
+Ability:Bowler
+Fees:500000
+
+Player 16
+Name:Hanuma Vihari
+country:India
+Ability:Wicket Keeper
+Fees:100000
+
+Player 17
+Name:Ajay Sharma
+country:India
+Ability:All-Rounder
+Fees:600000
+
+Player 18
+Name:Shiv Sunder Das
+country:India
+Ability:All-Rounder
+Fees:500000
+

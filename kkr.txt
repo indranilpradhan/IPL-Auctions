@@ -1,0 +1,110 @@
+Team : Kolkata Knight Riders
+
+Player 1
+Name:Imad Wasim
+country:Pakistan
+Ability:Bowler
+Fees:800000
+
+Player 2
+Name:KL Rahul
+country:India
+Ability:Batsman
+Fees:800000
+
+Player 3
+Name:Evin Lewis
+country:West Indies
+Ability:Batsman
+Fees:700000
+
+Player 4
+Name:Faheem Ashraf
+country:Pakistan
+Ability:Bowler
+Fees:700000
+
+Player 5
+Name:Kumar Sangakkara
+country:Sri Lanka
+Ability:Wicket Keeper
+Fees:700000
+
+Player 6
+Name:Zeeshan Maqsood
+country:Oman
+Ability:All-Rounder
+Fees:700000
+
+Player 7
+Name:George Munsey
+country:Scotland
+Ability:Batsman
+Fees:600000
+
+Player 8
+Name:Kyle Coetzer
+country:Scotland
+Ability:Batsman
+Fees:600000
+
+Player 9
+Name:Naman Ojha
+country:India
+Ability:Wicket Keeper
+Fees:600000
+
+Player 10
+Name:Sarandeep Singh
+country:India
+Ability:Batsman
+Fees:600000
+
+Player 11
+Name:Ajay Ratra
+country:India
+Ability:Batsman
+Fees:500000
+
+Player 12
+Name:Debashish Mohanty
+country:India
+Ability:All-Rounder
+Fees:500000
+
+Player 13
+Name:Dodda Ganesh
+country:India
+Ability:Batsman
+Fees:500000
+
+Player 14
+Name:Rajesh Chauhan
+country:India
+Ability:Bowler
+Fees:100000
+
+Player 15
+Name:S. Sreesanth
+country:India
+Ability:Bowler
+Fees:100000
+
+Player 16
+Name:Jayant Yadav
+country:India
+Ability:Bowler
+Fees:600000
+
+Player 17
+Name:Rahul Dravid
+country:India
+Ability:Bowler
+Fees:600000
+
+Player 18
+Name:Amit Mishra
+country:India
+Ability:All-Rounder
+Fees:400000
+

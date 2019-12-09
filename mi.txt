@@ -1,0 +1,110 @@
+Team : Mumbai Indians
+
+Player 1
+Name:Kevin O'Brien
+country:Ireland
+Ability:All-Rounder
+Fees:800000
+
+Player 2
+Name:Rashid Khan
+country:Afghanistan
+Ability:Bowler
+Fees:800000
+
+Player 3
+Name:David Willey
+country:England
+Ability:Bowler
+Fees:700000
+
+Player 4
+Name:Samiullah Shinwari
+country:Afghanistan
+Ability:All-Rounder
+Fees:700000
+
+Player 5
+Name:David Johnson
+country:India
+Ability:All-Rounder
+Fees:600000
+
+Player 6
+Name:Jayant Yadav
+country:India
+Ability:Bowler
+Fees:600000
+
+Player 7
+Name:Mohammad Amir
+country:Pakistan
+Ability:Bowler
+Fees:600000
+
+Player 8
+Name:Nayan Mongia
+country:India
+Ability:Batsman
+Fees:600000
+
+Player 9
+Name:Stuart Binny
+country:India
+Ability:All-Rounder
+Fees:600000
+
+Player 10
+Name:Subramaniam Badrinath
+country:India
+Ability:Batsman
+Fees:600000
+
+Player 11
+Name:Deep Dasgupta
+country:India
+Ability:Bowler
+Fees:500000
+
+Player 12
+Name:George Dockrell
+country:Ireland
+Ability:Bowler
+Fees:500000
+
+Player 13
+Name:Sourav Ganguly
+country:India
+Ability:Wicket Keeper
+Fees:500000
+
+Player 14
+Name:Zaheer Khan
+country:India
+Ability:Batsman
+Fees:500000
+
+Player 15
+Name:Chris Lynn
+country:Australia
+Ability:Batsman
+Fees:50000
+
+Player 16
+Name:Jaydev Unadkat
+country:India
+Ability:Wicket Keeper
+Fees:100000
+
+Player 17
+Name:Nayan Mongia
+country:India
+Ability:Batsman
+Fees:600000
+
+Player 18
+Name:Ajay Ratra
+country:India
+Ability:Batsman
+Fees:500000
+

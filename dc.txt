@@ -1,0 +1,110 @@
+Team : Delhi Capitals
+
+Player 1
+Name:Adam Gilchrist
+country:Australia
+Ability:Wicket Keeper
+Fees:800000
+
+Player 2
+Name:Adil Rashid
+country:England
+Ability:Bowler
+Fees:800000
+
+Player 3
+Name:Andile Phehlukwayo
+country:South Africa
+Ability:Bowler
+Fees:800000
+
+Player 4
+Name:Ish Sodhi
+country:New Zealand
+Ability:Bowler
+Fees:800000
+
+Player 5
+Name:MS Dhoni
+country:India
+Ability:Wicket Keeper
+Fees:800000
+
+Player 6
+Name:Shadab Khan
+country:Pakistan
+Ability:Bowler
+Fees:800000
+
+Player 7
+Name:Rohan Mustafa
+country:United Arab Emirates
+Ability:All-Rounder
+Fees:700000
+
+Player 8
+Name:Akila Dananjaya
+country:Sri Lanka
+Ability:Bowler
+Fees:600000
+
+Player 9
+Name:M. Venkataramana
+country:India
+Ability:Bowler
+Fees:600000
+
+Player 10
+Name:Ravichandran Ashwin
+country:India
+Ability:Batsman
+Fees:600000
+
+Player 11
+Name:Mayank Agarwal
+country:India
+Ability:Batsman
+Fees:400000
+
+Player 12
+Name:Narendra Hirwani
+country:India
+Ability:Batsman
+Fees:400000
+
+Player 13
+Name:Manish Pandey
+country:India
+Ability:Batsman
+Fees:300000
+
+Player 14
+Name:Javagal Srinath
+country:India
+Ability:Batsman
+Fees:100000
+
+Player 15
+Name:Karn Sharma
+country:India
+Ability:Batsman
+Fees:100000
+
+Player 16
+Name:Vijay Bharadwaj
+country:India
+Ability:Batsman
+Fees:100000
+
+Player 17
+Name:Vijay Shankar
+country:India
+Ability:All-Rounder
+Fees:100000
+
+Player 18
+Name:Stuart Binny
+country:India
+Ability:All-Rounder
+Fees:600000
+

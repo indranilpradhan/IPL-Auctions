@@ -1,0 +1,300 @@
+Aaron Finch:Australia:Batsman:800000
+Adam Gilchrist:Australia:Wicket Keeper:800000
+Adam Zampa:Australia:Bowler:800000
+Adil Rashid:England:Bowler:800000
+Alex Hales:England:Batsman:800000
+Andile Phehlukwayo:South Africa:Bowler:800000
+Babar Azam:Pakistan:Batsman:800000
+Colin Munro:New Zealand:Batsman:800000
+D'Arcy Short:Australia:Batsman:800000
+Glenn Maxwell:Australia:All-Rounder:800000
+Hazratullah Zazai:Afghanistan:Batsman:800000
+Imad Wasim:Pakistan:Bowler:800000
+Ish Sodhi:New Zealand:Bowler:800000
+JP Duminy:South Africa:All-Rounder:800000
+Kevin O'Brien:Ireland:All-Rounder:800000
+KL Rahul:India:Batsman:800000
+Mahmudullah:Bangladesh:All-Rounder:800000
+Mitchell Santner:New Zealand:Bowler:800000
+Mohammad Nabi:Afghanistan:All-Rounder:800000
+MS Dhoni:India:Wicket Keeper:800000
+Mujeeb Ur Rahman:Afghanistan:Bowler:800000
+Paul Stirling:Ireland:All-Rounder:800000
+Rashid Khan:Afghanistan:Bowler:800000
+Richie Berrington:Scotland:All-Rounder:800000
+Rohit Sharma:India:Batsman:800000
+Sean Williams:Zimbabwe:All-Rounder:800000
+Shadab Khan:Pakistan:Bowler:800000
+Shakib Al Hasan:Bangladesh:All-Rounder:800000
+Thisara Perera:Sri Lanka:All-Rounder:800000
+Virat Kohli:India:Batsman:800000
+AB de Villiers:South Africa:Wicket Keeper:700000
+Andrew Tye:Australia:Bowler:700000
+Billy Stanlake:Australia:Bowler:700000
+Chris Jordan:England:Bowler:700000
+Colin de Grandhomme:New Zealand:All-Rounder:700000
+Collins Obuya:Kenya:All-Rounder:700000
+David Willey:England:Bowler:700000
+Dinesh Karthik:India:Wicket Keeper:700000
+Eoin Morgan:England:Batsman:700000
+Evin Lewis:West Indies:Batsman:700000
+Faheem Ashraf:Pakistan:Bowler:700000
+Fakhar Zaman:Pakistan:Batsman:700000
+Jason Roy:England:Batsman:700000
+Joe Root:England:Batsman:700000
+Kane Williamson:New Zealand:Batsman:700000
+Kuldeep Yadav:India:Bowler:700000
+Kumar Sangakkara:Sri Lanka:Wicket Keeper:700000
+Liam Plunkett:England:Bowler:700000
+Martin Guptill:New Zealand:Batsman:700000
+Mohammad Hafeez:Pakistan:All-Rounder:700000
+Reeza Hendricks:South Africa:Batsman:700000
+Rohan Mustafa:United Arab Emirates:All-Rounder:700000
+Samiullah Shinwari:Afghanistan:All-Rounder:700000
+Shaiman Anwar:United Arab Emirates:Batsman:700000
+Shikhar Dhawan:India:Batsman:700000
+Shoaib Malik:Pakistan:All-Rounder:700000
+Tabraiz Shamsi:South Africa:Bowler:700000
+Tim Southee:New Zealand:Bowler:700000
+Zeeshan Maqsood:Oman:All-Rounder:700000
+Abhimanyu Mithun:India:Bowler:600000
+Ajay Sharma:India:All-Rounder:600000
+Akila Dananjaya:Sri Lanka:Bowler:600000
+Bhuvneshwar Kumar:India:Batsman:600000
+Brendon McCullum:New Zealand:Wicket Keeper:600000
+Carlos Brathwaite:West Indies:All-Rounder:600000
+Cheteshwar Pujara:India:Batsman:600000
+Chris Morris:South Africa:Bowler:600000
+Corey Anderson:New Zealand:All-Rounder:600000
+David Johnson:India:All-Rounder:600000
+David Miller:South Africa:Batsman:600000
+Faf du Plessis:South Africa:Batsman:600000
+George Munsey:Scotland:Batsman:600000
+Harbhajan Singh:India:Bowler:600000
+Imran Tahir:South Africa:Bowler:600000
+Iqbal Siddiqui:India:All-Rounder:600000
+Isuru Udana:Sri Lanka:All-Rounder:600000
+Jasprit Bumrah:India:Bowler:600000
+Jayant Yadav:India:Bowler:600000
+Jos Buttler:England:Batsman:600000
+Karun Nair:India:Batsman:600000
+Keemo Paul:West Indies:All-Rounder:600000
+Krunal Pandya:India:Bowler:600000
+Kyle Coetzer:Scotland:Batsman:600000
+Lasith Malinga:Sri Lanka:Bowler:600000
+Mark Boucher:South Africa:Wicket Keeper:600000
+Mark Watt:Scotland:Bowler:600000
+Max O:Netherlands:Batsman:600000
+Mohammad Amir:Pakistan:Bowler:600000
+Mustafizur Rahman:Bangladesh:Bowler:600000
+M. Venkataramana:India:Bowler:600000
+Naman Ojha:India:Wicket Keeper:600000
+Nayan Mongia:India:Batsman:600000
+Nilesh Kulkarni:India:Bowler:600000
+Pragyan Ojha:India:Bowler:600000
+Praveen Kumar:India:Wicket Keeper:600000
+Quinton de Kock:South Africa:Batsman:600000
+Rahul Dravid:India:Bowler:600000
+Ramesh Powar:India:Batsman:600000
+Rashid Patel:India:Batsman:600000
+Ravichandran Ashwin:India:Batsman:600000
+Robin Singh:India:Batsman:600000
+Saba Karim:India:Batsman:600000
+Sanjay Manjrekar:India:Batsman:600000
+Sarandeep Singh:India:Batsman:600000
+Stuart Binny:India:All-Rounder:600000
+Subramaniam Badrinath:India:Batsman:600000
+Subroto Banerjee:India:Bowler:600000
+Varun Aaron:India:Batsman:600000
+V. V. S. Laxman:India:Wicket Keeper:600000
+Wasim Jaffer:India:Batsman:600000
+Wriddhiman Saha:India:Batsman:600000
+Ajay Jadeja:India:Bowler:500000
+Ajay Ratra:India:Batsman:500000
+Andy Balbirnie:Ireland:Batsman:500000
+Calum MacLeod:Scotland:All-Rounder:500000
+Chris Gayle:West Indies:All-Rounder:500000
+Debashish Mohanty:India:All-Rounder:500000
+Deep Dasgupta:India:Bowler:500000
+Devang Gandhi:India:Bowler:500000
+Dodda Ganesh:India:Batsman:500000
+Gareth Delany:Ireland:All-Rounder:500000
+Gautam Gambhir:India:Bowler:500000
+George Dockrell:Ireland:Bowler:500000
+Gulbadin Naib:Afghanistan:All-Rounder:500000
+Hamilton Masakadza:Zimbabwe:Batsman:500000
+Hardik Pandya:India:All-Rounder:500000
+Hasan Ali:Pakistan:Bowler:500000
+Hrishikesh Kanitkar:India:Batsman:500000
+Kevin O:Ireland:Batsman:500000
+Khawar Ali:Oman:All-Rounder:500000
+Kusal Perera:Sri Lanka:Batsman:500000
+Munaf Patel:India:Batsman:500000
+Murali Vijay:India:Batsman:500000
+Najibullah Zadran:Afghanistan:Batsman:500000
+Pankaj Singh:India:Batsman:500000
+Parthiv Patel:India:Bowler:500000
+Paul van Meekeren:Netherlands:Bowler:500000
+Pieter Seelaar:Netherlands:All-Rounder:500000
+Piyush Chawla:India:Batsman:500000
+Pravin Amre:India:Bowler:500000
+Rishabh Pant:India:Wicket Keeper:500000
+Robin Singh, Jr.:India:All-Rounder:500000
+Roelof van der Merwe:Netherlands:All-Rounder:500000
+Sabbir Rahman:Bangladesh:Batsman:500000
+Sachin Tendulkar:India:All-Rounder:500000
+Sanjeev Sharma:India:Batsman:500000
+Sanju Samson:India:Wicket Keeper:500000
+Shahbaz Nadeem:India:Wicket Keeper:500000
+Shardul Thakur:India:Bowler:500000
+Sheldon Cottrell:West Indies:Bowler:500000
+Shiv Sunder Das:India:All-Rounder:500000
+Sourav Ganguly:India:Wicket Keeper:500000
+Sunil Narine:West Indies:Bowler:500000
+Suresh Raina:India:Batsman:500000
+Umesh Yadav:India:Batsman:500000
+Venkatesh Prasad:India:Wicket Keeper:500000
+Vinay Kumar:India:Batsman:500000
+Vivek Razdan:India:Batsman:500000
+V. R. V. Singh:India:Batsman:500000
+Yuzvendra Chahal:India:Bowler:500000
+Zaheer Khan:India:Batsman:500000
+Abinash Bohara:Nepal:Bowler:50000
+Aqib Ilyas:Oman:Batsman:50000
+Ashley Nurse:West Indies:All-Rounder:50000
+Bilal Zalmai:Austria:Batsman:50000
+Chris Lynn:Australia:Batsman:50000
+Craig Young:Ireland:Bowler:50000
+Dawlat Zadran:Afghanistan:Bowler:50000
+James Vince:England:Batsman:50000
+Khaleel Ahmed:India:Bowler:50000
+Mahedi Hasan:Bangladesh:All-Rounder:50000
+Marcus Stoinis:Australia:Bowler:50000
+Mark Adair:Ireland:Bowler:50000
+Oshane Thomas:West Indies:Bowler:50000
+Patrick Matautaava:Vanuatu:All-Rounder:50000
+Peter Moor:Zimbabwe:Batsman:50000
+Rizwan Cheema:Canada:Batsman:50000
+Scott Kuggeleijn:New Zealand:All-Rounder:50000
+Shem Ngoche:Kenya:All-Rounder:50000
+Simi Singh:Ireland:All-Rounder:50000
+Tinotenda Mutombodzi:Zimbabwe:All-Rounder:50000
+Tobias Visee:Netherlands:Batsman:50000
+Tom Bruce:New Zealand:Batsman:50000
+Usman Ghani:Afghanistan:Batsman:50000
+Abey Kuruvilla:India:Bowler:400000
+Abhinav Mukund:India:All-Rounder:400000
+Ajinkya Rahane:India:Batsman:400000
+Ambati Raydu:India:Wicket Keeper:400000
+Amit Mishra:India:All-Rounder:400000
+Anil Kumble:India:Batsman:400000
+Ashish Nehra:India:Wicket Keeper:400000
+Atul Wassan:India:All-Rounder:400000
+Ben Cooper:Netherlands:Batsman:400000
+Dasun Shanaka:Sri Lanka:All-Rounder:400000
+Elton Chigumbura:Zimbabwe:All-Rounder:400000
+Harvinder Singh:India:Batsman:400000
+Hemang Badani:India:Wicket Keeper:400000
+Ishant Sharma:India:Batsman:400000
+Kieron Pollard:West Indies:All-Rounder:400000
+Kusal Mendis:Sri Lanka:Batsman:400000
+Lakshan Sandakan:Sri Lanka:Bowler:400000
+Liton Das:Bangladesh:Batsman:400000
+Mayank Agarwal:India:Batsman:400000
+Mohammad Kaif:India:Batsman:400000
+Mohammed Shami:India:Bowler:400000
+Murali Kartik:India:Bowler:400000
+Mushfiqur Rahim:Bangladesh:Batsman:400000
+Narendra Hirwani:India:Batsman:400000
+Nathan Coulter-Nile:Australia:Bowler:400000
+Nikhil Chopra:India:All-Rounder:400000
+Prithvi Shaw:India:Bowler:400000
+Robin Uthappa:India:Wicket Keeper:400000
+Ross Taylor:New Zealand:Batsman:400000
+R. P. Singh:India:Batsman:400000
+Safyaan Sharif:Scotland:Bowler:400000
+Sairaj Bahutule:India:Batsman:400000
+Sanjay Bangar:India:Batsman:400000
+Sarfaraz Ahmed:Pakistan:Batsman:400000
+Soumya Sarkar:Bangladesh:All-Rounder:400000
+Stuart Thompson:Ireland:All-Rounder:400000
+Sunil Joshi:India:Batsman:400000
+Tamim Iqbal:Bangladesh:Batsman:400000
+Venkatapathy Raju:India:Bowler:400000
+Vijay Dahiya:India:Bowler:400000
+Vijay Yadav:India:Batsman:400000
+Vinod Kambli:India:Batsman:400000
+Virender Sehwag:India:Bowler:400000
+Washington Sundar:India:Bowler:400000
+Woorkeri Raman:India:Batsman:400000
+Yuvraj Singh:India:Batsman:400000
+Adam Milne:New Zealand:Bowler:300000
+Asghar Afghan:Afghanistan:Batsman:300000
+Ashton Agar:Australia:Bowler:300000
+Ben Stokes:England:All-Rounder:300000
+Beuran Hendricks:South Africa:Bowler:300000
+Boyd Rankin:England:Bowler:300000
+Chamu Chibhabha:Zimbabwe:All-Rounder:300000
+Danushka Gunathilaka:Sri Lanka:All-Rounder:300000
+Fabian Allen:West Indies:Bowler:300000
+Jonny Bairstow:England:Batsman:300000
+Kagiso Rabada:South Africa:Bowler:300000
+Karim Janat:Afghanistan:Bowler:300000
+Manish Pandey:India:Batsman:300000
+Matthew Cross:Scotland:Batsman:300000
+Moeen Ali:England:All-Rounder:300000
+Muhammad Usman:United Arab Emirates:Batsman:300000
+Rassie van der Dussen:South Africa:Batsman:300000
+Ryan Burl:Zimbabwe:All-Rounder:300000
+Shaheen Afridi:Pakistan:Bowler:300000
+Tamoor Sajjad:Qatar:All-Rounder:300000
+Ahmed Shehzad:Pakistan:Batsman:200000
+Chris Mpofu:Zimbabwe:Bowler:200000
+Gary Wilson:Ireland:Batsman:200000
+Karan KC:Nepal:All-Rounder:200000
+Kyle Jarvis:Zimbabwe:Bowler:200000
+Michael Leask:Scotland:All-Rounder:200000
+Mitchell Starc:Australia:Bowler:200000
+Mohammad Saifuddin:Bangladesh:All-Rounder:200000
+Pat Cummins:Australia:Bowler:200000
+Rakep Patel:Kenya:Batsman:200000
+Sikandar Raza:Zimbabwe:All-Rounder:200000
+Stephan Myburgh:Netherlands:Batsman:200000
+Tendai Chatara:Zimbabwe:Bowler:200000
+Tim David:Singapore:Batsman:200000
+Timm van der Gugten:Netherlands:Bowler:200000
+Wanindu Hasaranga:Sri Lanka:Bowler:200000
+Aakash Chopra:India:Batsman:100000
+Aashish Kapoor:India:All-Rounder:100000
+Ajit Agarkar:India:Bowler:100000
+Ashfaq Ahmed:United Arab Emirates:Batsman:100000
+Asif Ali:Pakistan:Batsman:100000
+Brendan Taylor:Zimbabwe:Batsman:100000
+Dwaine Pretorius:South Africa:All-Rounder:100000
+Farhaan Behardien:South Africa:Batsman:100000
+Fred Klaassen:Netherlands:Bowler:100000
+Gursharan Singh:India:Bowler:100000
+Hanuma Vihari:India:Wicket Keeper:100000
+Irfan Pathan:India:Batsman:100000
+Javagal Srinath:India:Batsman:100000
+Jaydev Unadkat:India:Wicket Keeper:100000
+Karn Sharma:India:Batsman:100000
+Lakshmipathy Balaji:India:Bowler:100000
+Mosaddek Hossain:Bangladesh:All-Rounder:100000
+MSK Prasad:India:All-Rounder:100000
+Nicholas Pooran:West Indies:Batsman:100000
+Paras Mhambrey:India:Batsman:100000
+Rahul Sanghvi:India:Batsman:100000
+Rajesh Chauhan:India:Bowler:100000
+Ravindra Jadeja:India:Bowler:100000
+Sadagoppan Ramesh:India:Batsman:100000
+Salil Ankola:India:Batsman:100000
+Sam Billings:England:Batsman:100000
+Sameer Dighe:India:Bowler:100000
+S. Sreesanth:India:Bowler:100000
+Tinu Yohannan:India:All-Rounder:100000
+Tom Curran:England:Bowler:100000
+Vijay Bharadwaj:India:Batsman:100000
+Vijay Shankar:India:All-Rounder:100000
+Vikram Rathour:India:Batsman:100000
+Wesley Barresi:Netherlands:Batsman:100000

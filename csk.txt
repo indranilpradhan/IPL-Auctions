@@ -1,0 +1,110 @@
+Team : Chennai Super Kings
+
+Player 1
+Name:Colin Munro
+country:New Zealand
+Ability:Batsman
+Fees:800000
+
+Player 2
+Name:JP Duminy
+country:South Africa
+Ability:All-Rounder
+Fees:800000
+
+Player 3
+Name:AB de Villiers
+country:South Africa
+Ability:Wicket Keeper
+Fees:700000
+
+Player 4
+Name:Billy Stanlake
+country:Australia
+Ability:Bowler
+Fees:700000
+
+Player 5
+Name:Tabraiz Shamsi
+country:South Africa
+Ability:Bowler
+Fees:700000
+
+Player 6
+Name:Bhuvneshwar Kumar
+country:India
+Ability:Batsman
+Fees:600000
+
+Player 7
+Name:Carlos Brathwaite
+country:West Indies
+Ability:All-Rounder
+Fees:600000
+
+Player 8
+Name:Faf du Plessis
+country:South Africa
+Ability:Batsman
+Fees:600000
+
+Player 9
+Name:Harbhajan Singh
+country:India
+Ability:Bowler
+Fees:600000
+
+Player 10
+Name:Wasim Jaffer
+country:India
+Ability:Batsman
+Fees:600000
+
+Player 11
+Name:Murali Vijay
+country:India
+Ability:Batsman
+Fees:500000
+
+Player 12
+Name:Pankaj Singh
+country:India
+Ability:Batsman
+Fees:500000
+
+Player 13
+Name:Sanjeev Sharma
+country:India
+Ability:Batsman
+Fees:500000
+
+Player 14
+Name:Khaleel Ahmed
+country:India
+Ability:Bowler
+Fees:50000
+
+Player 15
+Name:Vijay Dahiya
+country:India
+Ability:Bowler
+Fees:400000
+
+Player 16
+Name:Aashish Kapoor
+country:India
+Ability:All-Rounder
+Fees:100000
+
+Player 17
+Name:Ajit Agarkar
+country:India
+Ability:Bowler
+Fees:100000
+
+Player 18
+Name:David Johnson
+country:India
+Ability:All-Rounder
+Fees:600000
+

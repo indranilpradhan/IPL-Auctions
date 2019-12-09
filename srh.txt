@@ -1,0 +1,110 @@
+Team : Sun Risers Hyderabad
+
+Player 1
+Name:Mohammad Nabi
+country:Afghanistan
+Ability:All-Rounder
+Fees:800000
+
+Player 2
+Name:Paul Stirling
+country:Ireland
+Ability:All-Rounder
+Fees:800000
+
+Player 3
+Name:Richie Berrington
+country:Scotland
+Ability:All-Rounder
+Fees:800000
+
+Player 4
+Name:Rohit Sharma
+country:India
+Ability:Batsman
+Fees:800000
+
+Player 5
+Name:Shakib Al Hasan
+country:Bangladesh
+Ability:All-Rounder
+Fees:800000
+
+Player 6
+Name:Chris Jordan
+country:England
+Ability:Bowler
+Fees:700000
+
+Player 7
+Name:Dinesh Karthik
+country:India
+Ability:Wicket Keeper
+Fees:700000
+
+Player 8
+Name:Fakhar Zaman
+country:Pakistan
+Ability:Batsman
+Fees:700000
+
+Player 9
+Name:Kuldeep Yadav
+country:India
+Ability:Bowler
+Fees:700000
+
+Player 10
+Name:Martin Guptill
+country:New Zealand
+Ability:Batsman
+Fees:700000
+
+Player 11
+Name:Jasprit Bumrah
+country:India
+Ability:Bowler
+Fees:600000
+
+Player 12
+Name:Krunal Pandya
+country:India
+Ability:Bowler
+Fees:600000
+
+Player 13
+Name:Praveen Kumar
+country:India
+Ability:Wicket Keeper
+Fees:600000
+
+Player 14
+Name:Ajay Jadeja
+country:India
+Ability:Bowler
+Fees:500000
+
+Player 15
+Name:Parthiv Patel
+country:India
+Ability:Bowler
+Fees:500000
+
+Player 16
+Name:Vivek Razdan
+country:India
+Ability:Batsman
+Fees:500000
+
+Player 17
+Name:Ishant Sharma
+country:India
+Ability:Batsman
+Fees:400000
+
+Player 18
+Name:Sairaj Bahutule
+country:India
+Ability:Batsman
+Fees:400000
+

@@ -1,0 +1,110 @@
+Team : Royal Challengers Bangalore
+
+Player 1
+Name:Aaron Finch
+country:Australia
+Ability:Batsman
+Fees:800000
+
+Player 2
+Name:Babar Azam
+country:Pakistan
+Ability:Batsman
+Fees:800000
+
+Player 3
+Name:D'Arcy Short
+country:Australia
+Ability:Batsman
+Fees:800000
+
+Player 4
+Name:Mitchell Santner
+country:New Zealand
+Ability:Bowler
+Fees:800000
+
+Player 5
+Name:Andrew Tye
+country:Australia
+Ability:Bowler
+Fees:700000
+
+Player 6
+Name:Collins Obuya
+country:Kenya
+Ability:All-Rounder
+Fees:700000
+
+Player 7
+Name:Eoin Morgan
+country:England
+Ability:Batsman
+Fees:700000
+
+Player 8
+Name:Rahul Dravid
+country:India
+Ability:Bowler
+Fees:600000
+
+Player 9
+Name:Ramesh Powar
+country:India
+Ability:Batsman
+Fees:600000
+
+Player 10
+Name:Robin Singh
+country:India
+Ability:Batsman
+Fees:600000
+
+Player 11
+Name:Sanjay Manjrekar
+country:India
+Ability:Batsman
+Fees:600000
+
+Player 12
+Name:Robin Singh, Jr.
+country:India
+Ability:All-Rounder
+Fees:500000
+
+Player 13
+Name:Sachin Tendulkar
+country:India
+Ability:All-Rounder
+Fees:500000
+
+Player 14
+Name:Shahbaz Nadeem
+country:India
+Ability:Wicket Keeper
+Fees:500000
+
+Player 15
+Name:Abhinav Mukund
+country:India
+Ability:All-Rounder
+Fees:400000
+
+Player 16
+Name:Virender Sehwag
+country:India
+Ability:Bowler
+Fees:400000
+
+Player 17
+Name:Ravindra Jadeja
+country:India
+Ability:Bowler
+Fees:100000
+
+Player 18
+Name:Gautam Gambhir
+country:India
+Ability:Bowler
+Fees:500000
+
