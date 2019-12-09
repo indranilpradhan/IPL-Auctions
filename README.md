@@ -47,10 +47,48 @@ teams:8
 team_names:
 
 Chennai Super Kings
+
 Delhi Capitals
+
 Kings XI Punjab
+
 Kolkata Knight Riders
+
 Mumbai Indians
+
 Rajasthan Royals
+
 Royal Challengers Bangalore
+
 Sunrisers Hyderabad
+
+
+Output Files :
+
+Total n files, where n is the number of teams specified in the config.txt fileOne text file for each
+team containing player information in the following format.
+
+Chennai Super Kings.txt
+
+Team: Chennai Super Kings
+
+Player 1
+
+Name : Sachin Tendulkar
+
+Country : India
+
+Ability : Batsman
+
+Fees : 700000
+
+
+Player 2
+
+Name : Virendra Sehwag
+
+Country : India
+
+Ability : Batsman
+
+Fees : 600000
